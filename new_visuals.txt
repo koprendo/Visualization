@@ -1,0 +1,11 @@
+These are the visuals I want to add into my repository:
+- Overlapping histograms
+- Scatter plot
+- Pie chart
+- Boxplot
+- Violin plot
+- Correlation heatmap
+- Seasonal decompositon plot (time series)
+- Lag plots & Autocorrelation plots (time series again)
+- geospatial plots
+- interactive visuals (plotly or something else)
